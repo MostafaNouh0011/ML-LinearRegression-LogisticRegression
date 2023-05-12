@@ -3,7 +3,7 @@ from scipy.io import loadmat
 from scipy.optimize import minimize
 
 
-path = 'E:\\Machine_learning\\4-Classification\\ex3data.mat'
+path = 'ex3data.mat'
 data = loadmat(path)
 
 print('Data \n', data)
