@@ -2,7 +2,7 @@
 Linear Regression and Logistic Regression with Gradient Descent
 
 
-Here I 've implemented Linear Regression and Logistic Regression on data example
+Here I 've implemented Linear Regression and Logistic Regression on data example,
 which Andrew Ng explained in his course in 2011. with a friendly and easy way to start with Machine Learning.
 
 Libraries I 've used:
