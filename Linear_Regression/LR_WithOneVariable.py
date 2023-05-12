@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 # read data
-path = 'E:\\Machine_learning\\2-Regression\\Ex1Data.txt'
+path = 'Ex1Data.txt'
 data = pd.read_csv(path, header = None, names=['Population', 'Profit'])
 
 # show details of data
