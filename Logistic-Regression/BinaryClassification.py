@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # load data
-path = 'E:\\Machine_learning\\4-Classification\\ex1data.txt'
+path = 'ex1data.txt'
 data = pd.read_csv(path, header=None, names=['Exam 1', 'Exam 2', 'Admitted'])
 
 # print('Data\n', data.head(10))
